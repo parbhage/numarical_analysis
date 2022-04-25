@@ -1,0 +1,8 @@
+c     PROGRAM TO FIND SUM OF TWO NUMBERS
+c     WRITTEN BY SK SALMAN PARBHAGE, ROLLNo-PHY212050
+      WRITE(*,*)'GIVE ME THE VALUE OF A'
+      READ(*,*) X
+      Y = 9-X
+      WRITE(*,*)'INPUT=',X,'OUTPUT=',Y
+      STOP
+      END
